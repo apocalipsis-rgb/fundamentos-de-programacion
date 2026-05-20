@@ -20,3 +20,10 @@ Proyecto desarrollado en Python para registrar las horas trabajadas por empleado
 ## Integrantes
 
 - Adriana Loaiza Escobar
+
+## Documentación
+
+El proyecto incluye:
+- Tabla de requerimientos
+- Diagrama de flujo
+- Códigos fuente en Python
